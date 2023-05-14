@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/manifest.xml"/>
+<pcToLineNum>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/build/gen/006-B3703-00/source/Rez.mcgen" id="1" lineNum="7" parent="globals/Rez" pc="268435457" symbol="&lt;init&gt;"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="2" lineNum="7" parent="globals/SunCalc" pc="268435481" symbol="&lt;init&gt;"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="2" lineNum="17" parent="globals/SunCalc" pc="268435481" symbol="&lt;init&gt;"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="3" lineNum="43" parent="globals/SunCalc" pc="268435687" symbol="fromJulian"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="3" lineNum="44" parent="globals/SunCalc" pc="268435689" symbol="fromJulian"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="4" lineNum="98" parent="globals/SunCalc" pc="268435736" symbol="momentToString"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="4" lineNum="100" parent="globals/SunCalc" pc="268435740" symbol="momentToString"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="4" lineNum="101" parent="globals/SunCalc" pc="268435747" symbol="momentToString"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="4" lineNum="104" parent="globals/SunCalc" pc="268435753" symbol="momentToString"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="4" lineNum="105" parent="globals/SunCalc" pc="268435824" symbol="momentToString"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="4" lineNum="106" parent="globals/SunCalc" pc="268435824" symbol="momentToString"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="4" lineNum="107" parent="globals/SunCalc" pc="268435829" symbol="momentToString"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="4" lineNum="109" parent="globals/SunCalc" pc="268435885" symbol="momentToString"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="4" lineNum="110" parent="globals/SunCalc" pc="268435901" symbol="momentToString"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="4" lineNum="111" parent="globals/SunCalc" pc="268435912" symbol="momentToString"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="4" lineNum="113" parent="globals/SunCalc" pc="268435919" symbol="momentToString"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="4" lineNum="115" parent="globals/SunCalc" pc="268435966" symbol="momentToString"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="4" lineNum="116" parent="globals/SunCalc" pc="268436003" symbol="momentToString"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="4" lineNum="118" parent="globals/SunCalc" pc="268436016" symbol="momentToString"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="4" lineNum="121" parent="globals/SunCalc" pc="268436026" symbol="momentToString"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="4" lineNum="122" parent="globals/SunCalc" pc="268436043" symbol="momentToString"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="4" lineNum="124" parent="globals/SunCalc" pc="268436083" symbol="momentToString"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="4" lineNum="125" parent="globals/SunCalc" pc="268436109" symbol="momentToString"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="4" lineNum="126" parent="globals/SunCalc" pc="268436120" symbol="momentToString"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="4" lineNum="129" parent="globals/SunCalc" pc="268436136" symbol="momentToString"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="4" lineNum="130" parent="globals/SunCalc" pc="268436146" symbol="momentToString"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="4" lineNum="132" parent="globals/SunCalc" pc="268436159" symbol="momentToString"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="5" lineNum="47" parent="globals/SunCalc" pc="268436162" symbol="round"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="5" lineNum="48" parent="globals/SunCalc" pc="268436164" symbol="round"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="5" lineNum="49" parent="globals/SunCalc" pc="268436175" symbol="round"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="5" lineNum="51" parent="globals/SunCalc" pc="268436205" symbol="round"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="6" lineNum="38" parent="globals/SunCalc" pc="268436233" symbol="initialize"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="6" lineNum="39" parent="globals/SunCalc" pc="268436235" symbol="initialize"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="6" lineNum="40" parent="globals/SunCalc" pc="268436244" symbol="initialize"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="7" lineNum="56" parent="globals/SunCalc" pc="268436254" symbol="calculate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="7" lineNum="57" parent="globals/SunCalc" pc="268436258" symbol="calculate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="7" lineNum="58" parent="globals/SunCalc" pc="268436268" symbol="calculate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="7" lineNum="60" parent="globals/SunCalc" pc="268436278" symbol="calculate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="7" lineNum="61" parent="globals/SunCalc" pc="268436324" symbol="calculate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="7" lineNum="62" parent="globals/SunCalc" pc="268436355" symbol="calculate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="7" lineNum="64" parent="globals/SunCalc" pc="268436391" symbol="calculate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="7" lineNum="65" parent="globals/SunCalc" pc="268436428" symbol="calculate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="7" lineNum="66" parent="globals/SunCalc" pc="268436456" symbol="calculate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="7" lineNum="67" parent="globals/SunCalc" pc="268436487" symbol="calculate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="7" lineNum="68" parent="globals/SunCalc" pc="268436587" symbol="calculate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="7" lineNum="69" parent="globals/SunCalc" pc="268436624" symbol="calculate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="7" lineNum="70" parent="globals/SunCalc" pc="268436661" symbol="calculate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="7" lineNum="71" parent="globals/SunCalc" pc="268436713" symbol="calculate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="7" lineNum="72" parent="globals/SunCalc" pc="268436765" symbol="calculate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="7" lineNum="73" parent="globals/SunCalc" pc="268436775" symbol="calculate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="7" lineNum="76" parent="globals/SunCalc" pc="268436785" symbol="calculate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="7" lineNum="77" parent="globals/SunCalc" pc="268436796" symbol="calculate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="7" lineNum="80" parent="globals/SunCalc" pc="268436816" symbol="calculate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="7" lineNum="82" parent="globals/SunCalc" pc="268436928" symbol="calculate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="7" lineNum="83" parent="globals/SunCalc" pc="268436953" symbol="calculate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="7" lineNum="86" parent="globals/SunCalc" pc="268436955" symbol="calculate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="7" lineNum="88" parent="globals/SunCalc" pc="268437004" symbol="calculate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="7" lineNum="89" parent="globals/SunCalc" pc="268437044" symbol="calculate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="7" lineNum="90" parent="globals/SunCalc" pc="268437055" symbol="calculate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="7" lineNum="93" parent="globals/SunCalc" pc="268437069" symbol="calculate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalc.mc" id="7" lineNum="95" parent="globals/SunCalc" pc="268437091" symbol="calculate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="8" lineNum="9" parent="globals/DayProgressView" pc="268437105" symbol="&lt;init&gt;"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="11" lineNum="16" parent="globals/DayProgressView" pc="268437124" symbol="onLayout"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="11" lineNum="17" parent="globals/DayProgressView" pc="268437126" symbol="onLayout"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="12" lineNum="68" parent="globals/DayProgressView" pc="268437168" symbol="degreesRotateAndClamp"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="12" lineNum="69" parent="globals/DayProgressView" pc="268437170" symbol="degreesRotateAndClamp"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="12" lineNum="70" parent="globals/DayProgressView" pc="268437180" symbol="degreesRotateAndClamp"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="12" lineNum="71" parent="globals/DayProgressView" pc="268437190" symbol="degreesRotateAndClamp"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="12" lineNum="72" parent="globals/DayProgressView" pc="268437201" symbol="degreesRotateAndClamp"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="12" lineNum="74" parent="globals/DayProgressView" pc="268437211" symbol="degreesRotateAndClamp"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="12" lineNum="75" parent="globals/DayProgressView" pc="268437222" symbol="degreesRotateAndClamp"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="12" lineNum="77" parent="globals/DayProgressView" pc="268437232" symbol="degreesRotateAndClamp"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="13" lineNum="136" parent="globals/DayProgressView" pc="268437235" symbol="drawSteps"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="13" lineNum="137" parent="globals/DayProgressView" pc="268437239" symbol="drawSteps"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="13" lineNum="139" parent="globals/DayProgressView" pc="268437258" symbol="drawSteps"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="13" lineNum="140" parent="globals/DayProgressView" pc="268437265" symbol="drawSteps"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="13" lineNum="141" parent="globals/DayProgressView" pc="268437284" symbol="drawSteps"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="13" lineNum="144" parent="globals/DayProgressView" pc="268437297" symbol="drawSteps"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="13" lineNum="145" parent="globals/DayProgressView" pc="268437316" symbol="drawSteps"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="13" lineNum="148" parent="globals/DayProgressView" pc="268437341" symbol="drawSteps"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="13" lineNum="149" parent="globals/DayProgressView" pc="268437357" symbol="drawSteps"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="13" lineNum="152" parent="globals/DayProgressView" pc="268437372" symbol="drawSteps"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="13" lineNum="153" parent="globals/DayProgressView" pc="268437386" symbol="drawSteps"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="13" lineNum="154" parent="globals/DayProgressView" pc="268437411" symbol="drawSteps"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="13" lineNum="156" parent="globals/DayProgressView" pc="268437450" symbol="drawSteps"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="13" lineNum="157" parent="globals/DayProgressView" pc="268437475" symbol="drawSteps"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="15" lineNum="110" parent="globals/DayProgressView" pc="268437512" symbol="drawBattery"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="15" lineNum="111" parent="globals/DayProgressView" pc="268437516" symbol="drawBattery"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="15" lineNum="113" parent="globals/DayProgressView" pc="268437535" symbol="drawBattery"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="15" lineNum="114" parent="globals/DayProgressView" pc="268437542" symbol="drawBattery"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="15" lineNum="115" parent="globals/DayProgressView" pc="268437549" symbol="drawBattery"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="15" lineNum="116" parent="globals/DayProgressView" pc="268437562" symbol="drawBattery"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="15" lineNum="119" parent="globals/DayProgressView" pc="268437572" symbol="drawBattery"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="15" lineNum="120" parent="globals/DayProgressView" pc="268437597" symbol="drawBattery"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="15" lineNum="122" parent="globals/DayProgressView" pc="268437617" symbol="drawBattery"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="15" lineNum="123" parent="globals/DayProgressView" pc="268437624" symbol="drawBattery"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="15" lineNum="124" parent="globals/DayProgressView" pc="268437631" symbol="drawBattery"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="15" lineNum="127" parent="globals/DayProgressView" pc="268437672" symbol="drawBattery"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="15" lineNum="128" parent="globals/DayProgressView" pc="268437689" symbol="drawBattery"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="15" lineNum="131" parent="globals/DayProgressView" pc="268437699" symbol="drawBattery"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="15" lineNum="132" parent="globals/DayProgressView" pc="268437724" symbol="drawBattery"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="16" lineNum="11" parent="globals/DayProgressView" pc="268437754" symbol="initialize"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="16" lineNum="12" parent="globals/DayProgressView" pc="268437756" symbol="initialize"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="18" lineNum="27" parent="globals/DayProgressView" pc="268437775" symbol="onUpdate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="18" lineNum="29" parent="globals/DayProgressView" pc="268437779" symbol="onUpdate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="18" lineNum="30" parent="globals/DayProgressView" pc="268437796" symbol="onUpdate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="18" lineNum="31" parent="globals/DayProgressView" pc="268437870" symbol="onUpdate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="18" lineNum="32" parent="globals/DayProgressView" pc="268437898" symbol="onUpdate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="18" lineNum="35" parent="globals/DayProgressView" pc="268437912" symbol="onUpdate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="18" lineNum="36" parent="globals/DayProgressView" pc="268437949" symbol="onUpdate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="18" lineNum="37" parent="globals/DayProgressView" pc="268437977" symbol="onUpdate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="18" lineNum="38" parent="globals/DayProgressView" pc="268437999" symbol="onUpdate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="18" lineNum="39" parent="globals/DayProgressView" pc="268438101" symbol="onUpdate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="18" lineNum="40" parent="globals/DayProgressView" pc="268438120" symbol="onUpdate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="18" lineNum="41" parent="globals/DayProgressView" pc="268438134" symbol="onUpdate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="18" lineNum="45" parent="globals/DayProgressView" pc="268438154" symbol="onUpdate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="18" lineNum="48" parent="globals/DayProgressView" pc="268438178" symbol="onUpdate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="18" lineNum="49" parent="globals/DayProgressView" pc="268438192" symbol="onUpdate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="18" lineNum="50" parent="globals/DayProgressView" pc="268438206" symbol="onUpdate"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="19" lineNum="83" parent="globals/DayProgressView" pc="268438221" symbol="drawHourArc"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="19" lineNum="85" parent="globals/DayProgressView" pc="268438225" symbol="drawHourArc"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="19" lineNum="87" parent="globals/DayProgressView" pc="268438244" symbol="drawHourArc"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="19" lineNum="88" parent="globals/DayProgressView" pc="268438261" symbol="drawHourArc"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="19" lineNum="89" parent="globals/DayProgressView" pc="268438286" symbol="drawHourArc"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="19" lineNum="91" parent="globals/DayProgressView" pc="268438325" symbol="drawHourArc"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="19" lineNum="93" parent="globals/DayProgressView" pc="268438332" symbol="drawHourArc"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="19" lineNum="94" parent="globals/DayProgressView" pc="268438349" symbol="drawHourArc"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="19" lineNum="95" parent="globals/DayProgressView" pc="268438359" symbol="drawHourArc"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="19" lineNum="97" parent="globals/DayProgressView" pc="268438369" symbol="drawHourArc"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="19" lineNum="98" parent="globals/DayProgressView" pc="268438385" symbol="drawHourArc"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="19" lineNum="99" parent="globals/DayProgressView" pc="268438410" symbol="drawHourArc"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="19" lineNum="101" parent="globals/DayProgressView" pc="268438425" symbol="drawHourArc"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="19" lineNum="102" parent="globals/DayProgressView" pc="268438439" symbol="drawHourArc"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressView.mc" id="19" lineNum="103" parent="globals/DayProgressView" pc="268438461" symbol="drawHourArc"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressApp.mc" id="20" lineNum="26" parent="globals" pc="268438501" symbol="getApp"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressApp.mc" id="20" lineNum="27" parent="globals" pc="268438511" symbol="getApp"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressApp.mc" id="21" lineNum="5" parent="globals/DayProgressApp" pc="268438527" symbol="&lt;init&gt;"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressApp.mc" id="23" lineNum="20" parent="globals/DayProgressApp" pc="268438546" symbol="getInitialView"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressApp.mc" id="23" lineNum="21" parent="globals/DayProgressApp" pc="268438548" symbol="getInitialView"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressApp.mc" id="24" lineNum="7" parent="globals/DayProgressApp" pc="268438589" symbol="initialize"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/DayProgressApp.mc" id="24" lineNum="8" parent="globals/DayProgressApp" pc="268438591" symbol="initialize"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/build/gen/006-B3703-00/source/Rez.mcgen" id="26" lineNum="19" parent="globals/Rez/Layouts" pc="268438610" symbol="WatchFace"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/build/gen/006-B3703-00/source/Rez.mcgen" id="26" lineNum="20" parent="globals/Rez/Layouts" pc="268438622" symbol="WatchFace"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/build/gen/006-B3703-00/source/Rez.mcgen" id="26" lineNum="22" parent="globals/Rez/Layouts" pc="268438734" symbol="WatchFace"/>
+<entry filename="/Users/tp/Documents/GitHub/WatchFace-DayProgress/build/gen/006-B3703-00/source/Rez.mcgen" id="26" lineNum="24" parent="globals/Rez/Layouts" pc="268438846" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry id="7" module="true" symbol="globals/Rez/Menus"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="18" symbol="TIMES"/>
+<entry id="29" method="true" symbol="degreesRotateAndClamp"/>
+<entry field="true" id="37" symbol="AppName"/>
+<entry id="8" module="true" symbol="globals/Rez/Strings"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="28" symbol="sinM"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8389719" method="true" symbol="round"/>
+<entry id="32" method="true" symbol="drawSteps"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389348" symbol="font"/>
+<entry id="13" module="true" symbol="Menus"/>
+<entry id="8389275" method="true" symbol="getApp"/>
+<entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+<entry id="30" method="true" symbol="drawBattery"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="21" symbol="ds"/>
+<entry id="5" module="true" symbol="globals/Rez/JsonData"/>
+<entry id="22" method="true" symbol="fromJulian"/>
+<entry field="true" id="33" symbol="primaryColor"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry field="true" id="27" symbol="sin2L"/>
+<entry id="9" object="true" symbol="DayProgressApp"/>
+<entry field="true" id="8388893" symbol="PI"/>
+<entry field="true" id="23" symbol="lastD"/>
+<entry field="true" id="35" symbol="topMarginPercent"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="19" method="true" symbol="calculate"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry field="true" id="24" symbol="lastLng"/>
+<entry field="true" id="15" symbol="Jnoon"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="36" symbol="LauncherIcon"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry field="true" id="20" symbol="dec"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="34" symbol="secondaryColor"/>
+<entry id="12" module="true" symbol="Layouts"/>
+<entry id="31" method="true" symbol="drawHourArc"/>
+<entry id="25" method="true" symbol="momentToString"/>
+<entry id="8388642" module="true" symbol="Position"/>
+<entry id="4" module="true" symbol="globals/Rez/Fonts"/>
+<entry id="11" object="true" symbol="SunCalc"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="10" object="true" symbol="DayProgressView"/>
+<entry id="8388635" module="true" symbol="Application"/>
+<entry field="true" id="26" symbol="n"/>
+<entry field="true" id="17" symbol="M"/>
+<entry field="true" id="16" symbol="L"/>
+<entry field="true" id="14" symbol="C"/>
+</symbolTable>
+<localVars>
+<entry arg="true" endPc="268435735" name="j" stackId="1" startPc="268435687"/>
+<entry arg="true" endPc="268436161" name="moment" stackId="1" startPc="268435736"/>
+<entry arg="true" endPc="268436161" name="is24Hour" stackId="2" startPc="268435736"/>
+<entry endPc="268436161" name="tinfo" stackId="3" startPc="268435740"/>
+<entry endPc="268436161" name="text" stackId="4" startPc="268435740"/>
+<entry endPc="268436025" name="hour" stackId="5" startPc="268435885"/>
+<entry endPc="268436161" name="today" stackId="6" startPc="268435740"/>
+<entry endPc="268436161" name="days" stackId="7" startPc="268435740"/>
+<entry arg="true" endPc="268436232" name="a" stackId="1" startPc="268436162"/>
+<entry arg="true" endPc="268437104" name="moment" stackId="1" startPc="268436254"/>
+<entry arg="true" endPc="268437104" name="pos" stackId="2" startPc="268436254"/>
+<entry arg="true" endPc="268437104" name="what" stackId="3" startPc="268436254"/>
+<entry endPc="268437104" name="lat" stackId="4" startPc="268436258"/>
+<entry endPc="268437104" name="lng" stackId="5" startPc="268436258"/>
+<entry endPc="268437104" name="d" stackId="6" startPc="268436258"/>
+<entry endPc="268437104" name="x" stackId="7" startPc="268436258"/>
+<entry endPc="268437104" name="ds" stackId="8" startPc="268436258"/>
+<entry endPc="268437104" name="Jset" stackId="9" startPc="268436258"/>
+<entry endPc="268437104" name="Jrise" stackId="10" startPc="268436258"/>
+<entry arg="true" endPc="268437167" name="dc" stackId="1" startPc="268437124"/>
+<entry arg="true" endPc="268437234" name="degree" stackId="1" startPc="268437168"/>
+<entry arg="true" endPc="268437511" name="dc" stackId="1" startPc="268437235"/>
+<entry endPc="268437510" name="center" stackId="2" startPc="268437239"/>
+<entry endPc="268437510" name="radius" stackId="3" startPc="268437239"/>
+<entry endPc="268437510" name="top" stackId="4" startPc="268437239"/>
+<entry endPc="268437510" name="left" stackId="5" startPc="268437239"/>
+<entry endPc="268437510" name="activity" stackId="6" startPc="268437239"/>
+<entry endPc="268437510" name="stepPercent" stackId="7" startPc="268437239"/>
+<entry endPc="268437510" name="degrees" stackId="8" startPc="268437239"/>
+<entry arg="true" endPc="268437753" name="dc" stackId="1" startPc="268437512"/>
+<entry endPc="268437752" name="center" stackId="2" startPc="268437516"/>
+<entry endPc="268437752" name="width" stackId="3" startPc="268437516"/>
+<entry endPc="268437752" name="height" stackId="4" startPc="268437516"/>
+<entry endPc="268437752" name="top" stackId="5" startPc="268437516"/>
+<entry endPc="268437752" name="left" stackId="6" startPc="268437516"/>
+<entry endPc="268437752" name="endWidth" stackId="7" startPc="268437516"/>
+<entry endPc="268437752" name="endHeight" stackId="8" startPc="268437516"/>
+<entry endPc="268437752" name="stats" stackId="9" startPc="268437516"/>
+<entry endPc="268437752" name="pwr" stackId="10" startPc="268437516"/>
+<entry arg="true" endPc="268438220" name="dc" stackId="1" startPc="268437775"/>
+<entry endPc="268438219" name="clockTime" stackId="2" startPc="268437779"/>
+<entry endPc="268438219" name="timeString" stackId="3" startPc="268437779"/>
+<entry endPc="268438219" name="timeLabel" stackId="4" startPc="268437779"/>
+<entry endPc="268438219" name="date" stackId="5" startPc="268437779"/>
+<entry endPc="268438219" name="dateLabel" stackId="6" startPc="268437779"/>
+<entry endPc="268438219" name="weekdayIndex" stackId="7" startPc="268437779"/>
+<entry endPc="268438219" name="weekDayString" stackId="8" startPc="268437779"/>
+<entry endPc="268438219" name="dateString" stackId="9" startPc="268437779"/>
+<entry arg="true" endPc="268438500" name="dc" stackId="1" startPc="268438221"/>
+<entry endPc="268438499" name="center" stackId="2" startPc="268438225"/>
+<entry endPc="268438499" name="pwidth" stackId="3" startPc="268438225"/>
+<entry endPc="268438499" name="clockTime" stackId="4" startPc="268438225"/>
+<entry endPc="268438499" name="hours" stackId="5" startPc="268438225"/>
+<entry endPc="268438499" name="min" stackId="6" startPc="268438225"/>
+<entry endPc="268438499" name="degrees" stackId="7" startPc="268438225"/>
+<entry arg="true" endPc="268438872" name="dc" stackId="1" startPc="268438610"/>
+<entry endPc="268438872" name="rez_cmp_local_text_TimeLabel" stackId="2" startPc="268438622"/>
+<entry endPc="268438872" name="rez_cmp_local_text_DateLabel" stackId="3" startPc="268438622"/>
+</localVars>
+<annotations>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+</annotations>
+<dataEntryOffsetMappings>
+<dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry label="globals/Rez" offset="166" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/SunCalc" offset="245" parentId="globals" symbolId="SunCalc" type="class"/>
+<dataEntry label="globals/DayProgressView" offset="420" parentId="globals" symbolId="DayProgressView" type="class"/>
+<dataEntry label="globals/DayProgressApp" offset="571" parentId="globals" symbolId="DayProgressApp" type="class"/>
+<dataEntry label="globals/Rez/Drawables" offset="642" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="681" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/Menus" offset="720" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry label="globals/Rez/Fonts" offset="751" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="782" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry label="globals/Rez/JsonData" offset="821" parentId="Rez" symbolId="JsonData" type="module"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" endPc="268435480" name="&lt;init&gt;" parent="Rez" startPc="268435457">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435686" name="&lt;init&gt;" parent="SunCalc" startPc="268435481">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435735" name="fromJulian" parent="SunCalc" startPc="268435687">
+<param id="j"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436161" name="momentToString" parent="SunCalc" startPc="268435736">
+<param id="moment"/>
+<param id="is24Hour"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436232" name="round" parent="SunCalc" startPc="268436162">
+<param id="a"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436253" name="initialize" parent="SunCalc" startPc="268436233">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437104" name="calculate" parent="SunCalc" startPc="268436254">
+<param id="moment"/>
+<param id="pos"/>
+<param id="what"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437123" name="&lt;init&gt;" parent="DayProgressView" startPc="268437105">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="DayProgressView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="DayProgressView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437167" name="onLayout" parent="DayProgressView" startPc="268437124">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437234" name="degreesRotateAndClamp" parent="DayProgressView" startPc="268437168">
+<param id="degree"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437511" name="drawSteps" parent="DayProgressView" startPc="268437235">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="DayProgressView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437753" name="drawBattery" parent="DayProgressView" startPc="268437512">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437774" name="initialize" parent="DayProgressView" startPc="268437754">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="DayProgressView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438220" name="onUpdate" parent="DayProgressView" startPc="268437775">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438500" name="drawHourArc" parent="DayProgressView" startPc="268438221">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438526" name="getApp" startPc="268438501">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438545" name="&lt;init&gt;" parent="DayProgressApp" startPc="268438527">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="DayProgressApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438588" name="getInitialView" parent="DayProgressApp" startPc="268438546">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438609" name="initialize" parent="DayProgressApp" startPc="268438589">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="DayProgressApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Layouts">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Menus">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Fonts">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="JsonData">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438872" name="WatchFace" parent="Layouts" startPc="268438610">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

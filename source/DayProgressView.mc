@@ -88,7 +88,7 @@ class DayProgressView extends WatchUi.WatchFace {
 	    dc.setColor(secondaryColor, 0x000000);
         dc.drawArc(center, center, center-5, Toybox.Graphics.ARC_CLOCKWISE, 0, 360);
 
-        var pwidth = 8;
+        var pwidth = 12;
         
     	var clockTime = System.getClockTime();
         var hours = clockTime.hour;

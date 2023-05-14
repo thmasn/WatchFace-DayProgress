@@ -1,0 +1,55 @@
+[ @file = "/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalcEnum.mc"; @line = 6; ]
+enum {
+    [ @file = "/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalcEnum.mc"; @line = 7; @position = 4; ]
+    ASTRO_DAWN,
+    [ @file = "/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalcEnum.mc"; @line = 8; @position = 4; ]
+    NAUTIC_DAWN,
+    [ @file = "/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalcEnum.mc"; @line = 9; @position = 4; ]
+    DAWN,
+    [ @file = "/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalcEnum.mc"; @line = 10; @position = 4; ]
+    BLUE_HOUR_AM,
+    [ @file = "/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalcEnum.mc"; @line = 11; @position = 4; ]
+    SUNRISE,
+    [ @file = "/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalcEnum.mc"; @line = 12; @position = 4; ]
+    SUNRISE_END,
+    [ @file = "/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalcEnum.mc"; @line = 13; @position = 4; ]
+    GOLDEN_HOUR_AM,
+    [ @file = "/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalcEnum.mc"; @line = 14; @position = 4; ]
+    NOON,
+    [ @file = "/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalcEnum.mc"; @line = 15; @position = 4; ]
+    GOLDEN_HOUR_PM,
+    [ @file = "/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalcEnum.mc"; @line = 16; @position = 4; ]
+    SUNSET_START,
+    [ @file = "/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalcEnum.mc"; @line = 17; @position = 4; ]
+    SUNSET,
+    [ @file = "/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalcEnum.mc"; @line = 18; @position = 4; ]
+    BLUE_HOUR_PM,
+    [ @file = "/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalcEnum.mc"; @line = 19; @position = 4; ]
+    DUSK,
+    [ @file = "/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalcEnum.mc"; @line = 20; @position = 4; ]
+    NAUTIC_DUSK,
+    [ @file = "/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalcEnum.mc"; @line = 21; @position = 4; ]
+    ASTRO_DUSK,
+    [ @file = "/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalcEnum.mc"; @line = 22; @position = 4; ]
+    NUM_RESULTS
+}
+[ @file = "/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalcEnum.mc"; @line = 25; ]
+enum {
+    [ @file = "/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalcEnum.mc"; @line = 26; @position = 4; ]
+    D_TITLE,
+    [ @file = "/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalcEnum.mc"; @line = 27; @position = 4; ]
+    D_FROM,
+    [ @file = "/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalcEnum.mc"; @line = 28; @position = 4; ]
+    D_TO,
+    [ @file = "/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalcEnum.mc"; @line = 29; @position = 4; ]
+    D_MENU,
+    [ @file = "/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalcEnum.mc"; @line = 30; @position = 4; ]
+    D_AMPM,
+    [ @file = "/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalcEnum.mc"; @line = 31; @position = 4; ]
+    D_PROP,
+    [ @file = "/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalcEnum.mc"; @line = 32; @position = 4; ]
+    D_SHOW
+}
+[ @file = "/Users/tp/Documents/GitHub/WatchFace-DayProgress/source/SunCalcEnum.mc"; @line = 6; ]
+<init> {
+}
